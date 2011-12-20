@@ -14,6 +14,7 @@
   <name>Querydsl - Mongodb support</name>
   <description>Mongodb support for Querydsl</description>
   <packaging>jar</packaging>
+  <version>2.3.0.vivo</version>
   
   <properties>
     <mongodb.version>2.1</mongodb.version>
